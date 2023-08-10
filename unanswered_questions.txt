@@ -1,0 +1,110 @@
+Few more examples will be helpful
+How do I change my specs?
+what is attention?
+who is this person?
+why?
+how to study this paper?
+What do you mean by "vanishing gradient problem" above?
+Was there any first version of BLIP? And how is it different than the BLIP-2?
+how is it different from predecessor?
+I meant what is the true label?
+Here, while training for the first pre-training stage, specify what are the input variables and target variables for the model.
+while training for the first pre-training stage, what are the input variables and target variables for the model?
+what are those three objectives?
+-
+WA
+What can you answer
+what is normalization?
+In which cases are outliers useful?
+What is winsorization
+What are disadvantages of windsorization?
+what is abstract?
+where is the paper?
+abc
+What is mathematics
+abc
+What is attentive?
+What happens if K equals V
+tell me more about it
+WHAT IS IT
+what is blue
+what is bleu
+Is attention good or bad
+Why is Html5 the way it is
+How do you link html to css
+Tell me more
+where have transformers not worked well?
+anything more then this?
+What is the T_i in this context?
+how can i learn pytorch
+what kind of courses
+H
+how?
+my name is Mark. what is my name?
+what is my name
+what is reference 22 about?
+how many characters is a token
+why is a linear learning rate decay schedule used? what are it's advantages
+please explain the dotted blue curve in figure 2
+in table 5, on which tasks does the the proposed approach work best
+What are the types of classification algorithms?
+What are the limitations of neural networks?
+What is a work-around for these limitations?
+Please explain
+what is this module about?
+What is this chat box for?
+Can you tell the reasons?
+Can you tell the reasons?
+explain me like I am 5
+sequence to relate different positions within itself - this is not clear
+okay, but can we use ideas from longformer to reduce that complexity?
+what kind of feature maps?
+How to apply data2vec in computer vision
+explain in 4 bullet points
+define
+where did this paper come up with query key and value design principle
+generate an interview question for this
+generate bullet points from introduction
+why?
+Working ??
+Working
+..
+write an essay on attention theory
+What is LR
+Linear regression
+What is self attention matrix?
+what does this mean?
+hellow
+Which course are these notes from?
+What are hyper parameters?
+what's this
+test
+what is nginx
+what is deto2vac?
+Hi. This is goyal
+Hi this is goyal
+How is linear regression different from logistic regression?
+abstract?
+can you tell me the main point of this paper?
+what's ByteNet
+BERT means
+can you refer papers related to textual entailment
+nians
+what is vec?
+dawmdkaw
+d sjndjas
+what is the summary?
+what is the summary of this article?
+summary of https://www.theschoolofai.com/home/learner/96b3dbb385d94dd7a2b0de47cbcbdd15?
+what example is this?
+who is Wei-Ning Hsu
+summarize this papaer
+define capitalism
+which model are you, GPT-3.5 or 4
+What is the difference between this paper and BERT paper
+Summarize page 1
+Explain the title of paper
+explain capitalism
+capitalism
+about
+Who is Lucas Beyer
